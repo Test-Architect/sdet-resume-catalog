@@ -1,3 +1,5 @@
+# automation-resume-catalog
+
 | Industry Sector                                                                                                                           | Resume name | Contributor | Core Skill  | Resume link|
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- | ----------- | ---------- |
 | **Technology & Internet**<br>(`Apple, Microsoft, Alphabet (Google), Amazon, Meta Platforms (Facebook), etc`)                              |             |             |             |            |
