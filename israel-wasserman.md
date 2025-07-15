@@ -3,7 +3,7 @@
 🔍 Currently seeking QA Automation / Python Developer opportunities (Remote / Hybrid)  
 **Experience**: 15+ years in Manual QA with strong practical experience in Python-based test automation using Selenium and Pytest.
 
-**GitHub**: [IsraelW18](https://github.com/IsraelW18)  
+**GitHub**: https://github.com/IsraelW18  
 **LinkedIn**: [linkedin.com/in/israel-wasserman](https://linkedin.com/in/israel-wasserman)
 
 
