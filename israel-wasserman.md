@@ -1,4 +1,4 @@
-# Israel Wasserman  
+# 💼 Israel Wasserman  
 **Senior QA Manual & Automation Engineer (ISTQB Certified)**  
 🔍 Currently seeking QA Automation / Python Developer opportunities (Remote / Hybrid)  
 **Experience**: 15+ years in Manual QA with strong practical experience in Python-based test automation using Selenium and Pytest
@@ -8,13 +8,13 @@
 
 ---
 
-## 🧠 Community Contribution  
+## Community Contribution  
 I'm an active contributor to the **Software Test Architect** global community, where I share insights and real-world Python automation code.  
-🔗 [pytest-python-sample contribution](https://github.com/Test-Architect/pytest-python-sample)
+**[pytest-python-sample contribution](https://github.com/Test-Architect/pytest-python-sample)**
 
 ---
 
-## 💼 Technical Skills  
+## Technical Skills  
 **Languages**: Python, SQL, HTML, CSS, XML  
 **Frameworks**: Selenium, Pytest, Flask, REST API, Docker  
 **Tools**: Postman, SoapUI, Git, Jenkins, TFS, JIRA  
@@ -26,7 +26,7 @@ I'm an active contributor to the **Software Test Architect** global community, w
 
 ---
 
-## 🧪 Work Experience
+## Work Experience
 
 ### **Selected Automation Projects** (2024–2025)  
 - Built real-world Python frameworks using Selenium, Pytest, and POM  
@@ -56,7 +56,7 @@ I'm an active contributor to the **Software Test Architect** global community, w
 
 ---
 
-## 📚 Education  
+## Education  
 - QA Automation and Python – QA Experts Group (2024)  
 - Python Programming – Campus IL (2023)  
 - ISTQB QA CTFL Course – Sela College (2008)
@@ -64,6 +64,6 @@ I'm an active contributor to the **Software Test Architect** global community, w
 
 ---
 
-## 📬 Contact  
-🔗 LinkedIn: [linkedin.com/in/israel-wasserman](https://linkedin.com/in/israel-wasserman)  
-🔍 Open to QA Automation / Python Developer roles (Remote / Hybrid)
+## Contact  
+LinkedIn: [linkedin.com/in/israel-wasserman](https://linkedin.com/in/israel-wasserman)  
+**🔍 Open to QA Automation / Python Developer roles (Remote / Hybrid)**
